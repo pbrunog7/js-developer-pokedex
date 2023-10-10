@@ -7,75 +7,75 @@
 }
 
 .normal {
-    background-color: #a6a877;
+    background-color: #929da3 ;
 }
 
 .grass {
-    background-color: #77c850;
+    background-color: #63bc5a;
 }
 
 .fire {
-    background-color: #ee7f30;
+    background-color: #ff9d55;
 }
 
 .water {
-    background-color: #678fee;
+    background-color: #5090d6;
 }
 
 .electric {
-    background-color: #f7cf2e;
+    background-color: #f4d23c;
 }
 
 .ice {
-    background-color: #98d5d7;
+    background-color: #73cec0;
 }
 
 .ground {
-    background-color: #dfbf69;
+    background-color: #d97845;
 }
 
 .flying {
-    background-color: #a98ff0;
+    background-color: #8fa9de;
 }
 
 .poison {
-    background-color: #a040a0;
+    background-color: #aa6bc8;
 }
 
 .fighting {
-    background-color: #bf3029;
+    background-color: #ce416b;
 }
 
 .psychic {
-    background-color: #f65687;
+    background-color: #fa7179;
 }
 
 .dark {
-    background-color: #725847;
+    background-color: #5a5465;
 }
 
 .rock {
-    background-color: #b8a137;
+    background-color: #c5b78c;
 }
 
 .bug {
-    background-color: #a8b720;
+    background-color: #91c12f;
 }
 
 .ghost {
-    background-color: #6e5896;
+    background-color: #5269ad;
 }
 
 .steel {
-    background-color: #b9b7cf;
+    background-color: #5a8ea2;
 }
 
 .dragon {
-    background-color: #6f38f6;
+    background-color: #0b6dc3;
 }
 
 .fairy {
-    background-color: #f9aec7;
+    background-color: #ec8fe6;
 }
 
 .pokemon {
@@ -94,9 +94,9 @@
 }
 
 .pokemon .name {
-    text-transform: capitalize;
-    color: #fff;
+    color: #ffffff;
     margin-bottom: .25rem;
+    text-transform: capitalize;
 }
 
 .pokemon .detail {
@@ -118,8 +118,9 @@
     margin: .25rem 0;
     font-size: .625rem;
     border-radius: 1rem;
-    filter: brightness(1.1);
+    filter:brightness(1.1);
     text-align: center;
+
 }
 
 .pokemon .detail img {
@@ -139,9 +140,9 @@
 .pagination button {
     padding: .25rem .5rem;
     margin: .25rem 0;
-    font-size: .625rem;
+    font-size: .7rem;
     color: #fff;
-    background-color: #6c79db;
+    background-color: #725791;
     border: none;
     border-radius: 1rem;
 }
